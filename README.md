@@ -1,3 +1,3 @@
 # Mad APIs
 
-Some useful APIs
+Some APIs and helpers
